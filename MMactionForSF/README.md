@@ -68,7 +68,7 @@ python tools/test.py configs/SF/MySFConfig_LR0.075.py ./work_dirs/M9-LR0.075/LR0
 
 两条路径均采用3D ResNet-50为骨干网络
 
-![demo 1] https://github.com/ArtificialRay/Awesome-Bio-Inspired-Machine-Vision/blob/Kaijie-Lai/MMactionForSF/output1%5B00h00m00s-00h00m05s%5D.gif
+![demo1](output1[00h00m00s-00h00m05s].gif)
 
-![demo 2] https://github.com/ArtificialRay/Awesome-Bio-Inspired-Machine-Vision/blob/Kaijie-Lai/MMactionForSF/output2%5B00h00m00s-00h00m04s%5D.gif
+![demo 2](output2[00h00m00s-00h00m04s].gif)
 
