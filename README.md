@@ -13,3 +13,7 @@ https://github.com/ArtificialRay/Awesome-Bio-Inspired-Machine-Vision/blob/main/T
 
 **MMactionForSF**: A dual-stream spatiotemporal architecture which utilize SlowFast network for human action recognition. Click [here](https://github.com/ArtificialRay/Awesome-Bio-Inspired-Machine-Vision/blob/main/MMactionForSF)
 
+**ZYNQ Hand Digits Recognintion**: Completely FPGA implementation of CNN for real-time recognition of digits from 0 to 9. Click [here](https://github.com/ArtificialRay/Awesome-Deep-Learning-For-Machine-Vision/tree/main/ZYNQ_CNN)
+
+
+
